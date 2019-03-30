@@ -30,7 +30,7 @@
 # testtarget = 6
 # a = Solution()
 # print a.twoSum(testnum, testtarget)
-# print sys.version
+
 
 
 
