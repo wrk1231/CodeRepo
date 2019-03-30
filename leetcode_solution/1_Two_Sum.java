@@ -7,8 +7,8 @@ import java.util.Map;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
-    	Map<Integer,Integer> dictionary = new HashMap<Integer,Integer>();
-
+    	// Map<Integer,Integer> dictionary = new HashMap<Integer,Integer>();
+        Map<Integer,Integer> dictionary = new HashMap<>();
     	int residual;
     	int [] resultArray = new int[2];
     	for(int index = 0; index < nums.length; index++){

@@ -28,8 +28,6 @@
 #         return countnum    
 # testnum = [3,2,4,3]
 # testtarget = 6
-# a = Solution()
-# print a.twoSum(testnum, testtarget)
 
 
 
